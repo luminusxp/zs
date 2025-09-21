@@ -1,0 +1,3 @@
+Hash of first ZS_BACKUP
+a330145bc33a7c232e62065dc2f1ff2e9bc67b43
+zs-python-work.dmg
