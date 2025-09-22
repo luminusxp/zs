@@ -1,3 +1,31 @@
-Hash of first ZS_BACKUP
+Backups History:
+
+Hash of first instance – 6-1-25:
 a330145bc33a7c232e62065dc2f1ff2e9bc67b43
-zs-python-work.dmg
+
+Hash of latest instance – 8-22-25:
+147b0dd6404b3f9f2f4bfa97ff4b89ee0fdf78b5
+
+Note: Hash 147b0dd6404b3f9f2f4bfa97ff4b89ee0fdf78b5 is associated with zbk-8-21-25, reflecting the latest project state as of 8-21-25. Verification of contents requires controlled access. Prior instance files exist that preserve historical development continuity in backups.
+
+---
+
+Project History:
+
+Phase 1 – Initial development  
+Start – 3-11-25:  
+b60b74094b03fecb912f147783b214ed2f653b35
+
+End – 3-19-25:  
+0d7b4535e5fa401a90c351b2d4a81a021fbf0c2e
+
+Note: Additional instances may exist from 3-7-25 and 3-8-25 pending verification. These entries reflect early-stage development continuity prior to later iterations. History will be updated if earlier entries are located.
+
+Phase 2 – Framework transition and continued development  
+Start – 3-24-25:  
+bc2eb331a0f15afe62728f45712c5d3c41dc4483
+
+Current – 9-20-25:  
+abeffc5d2be3dca372b246c2078b9833f8673900
+
+Note: This phase reflects a transition in development structure and continued work. Verified history spans from 3-24-25 through 9-20-25, with potential continuity as early as 3-7-25. All entries support proof of authorship and development integrity.
